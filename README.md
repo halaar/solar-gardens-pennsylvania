@@ -19,7 +19,7 @@ There are many hurdles but I believe they are all manageable.  My goal is to doc
 ###Detailed Outline
 
 
-1. Legal, Business Plan, Regulatory, Insurance, Interconnect
+#####1. Legal, Business Plan, Regulatory, Insurance, Interconnect
 
 - Develop business plan with Small Business Development center.
 - Non Profit legal work is expensive.  This is a one-time fee and others in Pennsylvania could use the same nonprofit.
@@ -27,7 +27,7 @@ There are many hurdles but I believe they are all manageable.  My goal is to doc
 - Find general Interconnect fees for smaller .5-10 KW, 10-50 KW, and larger systems.
 - Cover solar panels and non-profit with insurance.
 
-2. Land
+#####2. Land
 
 - For discovery, use a home.
 - For scale up - Could be leased warehouse roof space, leasable "brown field" land, eventually unused municipal land.  
@@ -35,13 +35,13 @@ There are many hurdles but I believe they are all manageable.  My goal is to doc
 - Find general going price for land and roof lease.
 - If possible offer royalty.
 
-3. Financials
+#####3. Financials
 
 - My personal goal is 10 year ROI including leased land and all other costs.
 - Investigate selling power to broker or local power users rather than the power company.
 - Present business plan to local banks for financing.
 
-4. Solar System
+#####4. Solar System
 
 - Find local installer that uses latest solar technology.
 - Use largest available USA sourced solar panels and matching micro inverters.
