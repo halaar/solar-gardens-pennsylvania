@@ -21,11 +21,11 @@ There are many hurdles but I believe they are all manageable.  My goal is to doc
 
 1. Legal, Business Plan, Regulatory, Insurance, Interconnect
 
--Develop business plan with Small Business Development center.
--Non Profit legal work is expensive.  This is a one-time fee and others in Pennsylvania could use the same nonprofit.
--During discovery, use separate accounts for money.  
--Find general Interconnect fees for smaller .5-10 KW, 10-50 KW, and larger systems.
--Cover solar panels and non-profit with insurance.
+- Develop business plan with Small Business Development center.
+- Non Profit legal work is expensive.  This is a one-time fee and others in Pennsylvania could use the same nonprofit.
+- During discovery, use separate accounts for money.  
+- Find general Interconnect fees for smaller .5-10 KW, 10-50 KW, and larger systems.
+- Cover solar panels and non-profit with insurance.
 
 2. Land
 
