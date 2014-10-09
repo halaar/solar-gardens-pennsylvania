@@ -7,7 +7,7 @@ I want to document what it takes to be a Solar Gardener in Pennsylvania.  A sola
 
 #This is not a computer code project.  I am trying to crack the code for small scale solar development in Pennsylvania, United States.
 
-There are many hurdles but I believe they are all manageable.  My goal is to document the process I use to develop a small solar farm in hopes to make it easier for many in the future.  This is aimed at mostly community solar farms, but the same information could be used for for-profit solar farms.  I will be using solargardens.org as a resource.  I am not an expert in this field.
+There are many hurdles but I believe they are all manageable.  My goal is to document the process I use to develop a small solar farm, in hopes to make it easier for many in the future.  This is aimed at mostly community solar farms, but the same information could be used for for-profit solar farms.  I will be using solargardens.org as a resource.  I am not an expert in this field.
 
 
 ###Basic Outline
