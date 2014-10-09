@@ -1,7 +1,7 @@
 solar-gardens-pennsylvania
 ==========================
 
-I want to document what it takes to be a Solar Gardener in Pennsylvania.  A solar gardener is similar to a traditional gardener who grows plants, however a solar gardener setups up solar farms.  More infomration at solargardens.org.
+I want to document what it takes to be a Solar Gardener in Pennsylvania.  A solar gardener is similar to a traditional gardener who grows plants, however a solar gardener setups up solar farms.  More information at solargardens.org.
 
 
 
